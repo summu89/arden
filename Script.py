@@ -692,25 +692,24 @@ USAGE:
 ʜᴇʀᴇ ɪꜱ ʜᴇʟᴘ ᴍᴇɴᴜ
 """
     MANAGEMENT_TXT = """
-👮🏻aᴠᴀɪʟᴀʙʟᴇ ᴛᴏ aᴅᴍɪɴs & mᴏᴅᴇʀᴀᴛᴏʀs.
-🕵🏻aᴠᴀɪʟᴀʙʟᴇ ᴛᴏ aᴅᴍɪɴs.
+👮🏻 Admins & moderators
+🕵🏻 Admins only
 
-🕵🏻 /settings ᴍᴀɴᴀɢᴇ ᴀʟʟ Bᴏᴛ sᴇᴛᴛɪɴɢs ɪɴ ɢʀᴏᴜᴘ.
-👮🏻 /ban ʙᴀɴ ᴀ ᴜsᴇʀ ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜᴏᴜᴛ ɢɪᴠɪɴɢ ʜɪᴍ ᴛʜᴇ ᴘᴏssɪʙɪʟɪᴛʏ ᴛᴏ Jᴏɪɴ ᴀɢᴀɪɴ ᴜsɪɴɢ ᴛʜᴇ ʟɪɴᴋ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴘ.
-👮🏻 /mute ᴘᴜᴛs ᴀ ᴜsᴇʀ ɪɴ ʀᴇᴀᴅ-ᴏɴʟʏ ᴍᴏᴅᴇ. Hᴇ ᴄᴀɴ ʀᴇᴀᴅ ʙᴜᴛ ᴄᴀɴ'ᴛ sᴇɴᴅ ᴀɴʏ ᴍᴇssᴀɢᴇs.
-👮🏻 /kick ʙᴀɴs ᴀ ᴜsᴇʀ ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ, ɢɪᴠɪɴɢ ʜɪᴍ ᴛʜᴇ ᴘᴏssɪʙɪʟɪᴛʏ ᴛᴏ Jᴏɪɴ ᴀɢᴀɪɴ ᴡɪᴛʜ ᴛʜᴇ ʟɪɴᴋ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴘ.
-👮🏻 /unban ʟᴇᴛs ʏᴏᴜ ʀᴇᴍᴏᴠᴇ ᴀ ᴜsᴇʀ ғʀᴏᴍ ɢʀᴏᴜᴘ's ʙʟᴀᴄᴋʟɪsᴛ, ɢɪᴠɪɴɢ ᴛʜᴇᴍ ᴛʜᴇ ᴘᴏssɪʙɪʟɪᴛʏ ᴛᴏ Jᴏɪɴ ᴀɢᴀɪɴ ᴡɪᴛʜ ᴛʜᴇ ʟɪɴᴋ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴘ.
-👮🏻 /info ɢɪᴠᴇs ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜsᴇʀ. [ғᴏʀ ᴜsᴇʀs and admins]
-👮🏻 /report - ʀᴇᴘʟʏ ᴛʜᴇ ᴍᴇssᴀɢᴇ ɪɴ ɢʀᴏᴜᴘ ғᴏʀ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴs [ғᴏʀ ᴜsᴇʀs]
-👮🏻 /fp - sᴇɴᴅ ʏᴏᴜʀ ғᴇᴇᴅʙᴀᴄᴋ ʙʏ ᴘᴜʙʟɪᴄᴀʟʟʏ [ғᴏʀ ᴜsᴇʀs]
-👮🏻 /fa - sᴇɴᴅ ʏɪᴜʀ ғᴇᴇᴅʙᴀᴄᴋ ʙʏ ᴀɴᴏɴʏᴍᴏᴜsʟʏ [ғᴏʀ ᴜsᴇʀs]
-👮🏻 /connect - ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ʙᴏᴛ
-👮🏻 /filter - ᴀᴅᴅ ᴀ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ɢʀᴏᴜᴘ.
-👮🏻 /filters - ʟɪꜱᴛ ᴀʟʟ ᴛʜᴇ ꜰɪʟᴛᴇʀꜱ ᴏꜰ ᴀ ɢʀᴏᴜᴘ.
-👮🏻 /del - ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ɢʀᴏᴜᴘ.
-👮🏻 /delall - ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ɢʀᴏᴜᴘ.
-👮🏻 /purge - ᴅᴇʟᴇᴛᴇ ᴀʟʟ ᴍᴇssᴀɢᴇs ꜰʀᴏᴍ ᴛʜᴇ ʀᴇᴘʟɪᴇᴅ ᴛᴏ ᴍᴇssᴀɢᴇ, ᴛᴏ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴍᴇssᴀɢᴇ.
-👮🏻 /delall - ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)
+🕵🏻 /settings – manage all Bot settings
+👮🏻 /ban – ban user permanently
+👮🏻 /mute – read-only mode
+👮🏻 /kick – ban but allow rejoin via link
+👮🏻 /unban – remove from blacklist
+👮🏻 /info – user info [users+admins]
+👮🏻 /report – reply to report [users]
+👮🏻 /fp – public feedback [users]
+👮🏻 /fa – anonymous feedback [users]
+👮🏻 /connect – link group to bot
+👮🏻 /filter – add filter
+👮🏻 /filters – list filters
+👮🏻 /del – delete filter
+👮🏻 /delall – delete all filters (chat owner only)
+👮🏻 /purge – delete messages from reply to current
 """
 
     BASIC_TXT = """
