@@ -15,7 +15,7 @@ if network_name == "Team_Netflix":
     def uchiha(update: Update, context: CallbackContext):
 
         TEXT = f"""
-ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ [ᴛᴇᴀᴍ ɴᴇᴛғʟɪx ](https://t.me/team_netflix),
+ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ [ᴛᴇᴀᴍ ɴᴇᴛғʟɪx ](https://t.me/),
 ᴛᴇᴀᴍ ɴᴇᴛғʟɪx ɪs ᴀ ɢʀᴏᴜᴘ ᴏғ ᴘᴇᴏᴘʟᴇ ᴡʜᴏ ᴀʀᴇ ᴛʀʏɪɴɢ ᴛᴏ ᴘʀᴏᴠɪᴅᴇ ᴀʟʟ ᴛʜᴇ ᴇʟᴇᴄᴛʀᴏɴɪᴄ ᴍᴇᴅɪᴀ ʙᴀsᴇᴅ ᴇɴᴛᴇʀᴛᴀɪɴᴍᴇɴᴛ sᴛᴜғғ ғʀᴇᴇ ᴏғ ᴄᴏsᴛ ᴛᴏ ᴀʟʟ ᴛʜᴏsᴇ ᴡʜᴏ ᴄᴀɴɴᴏᴛ ᴀғғᴏʀᴅ ɪᴛ, Pʟᴇᴀsᴇ ᴅᴏ sᴜᴘᴘᴏʀᴛ ᴜs ᴀɴᴅ ᴀʟsᴏ sᴜᴘᴘᴏʀᴛ ᴏᴜʀ ᴀᴅᴅ-ʙᴀsᴇᴅ ᴄᴏɴᴛᴇɴᴛ ᴀs ɪᴛ ʜᴇʟᴘs ᴜs ᴋᴇᴇᴘ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ ғʀᴇᴇ ᴏғ ᴄᴏsᴛ.
  ᴛᴇᴀᴍ ɴᴇᴛғʟɪx ᴡᴀs ᴄʀᴇᴀᴛᴇᴅ ᴏɴ 20 December 2022..
 """
@@ -26,16 +26,16 @@ if network_name == "Team_Netflix":
 
                 reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton(text="sʜᴀʀᴇ & sᴜᴘᴘᴏʀᴛ", url="https://t.me/share/url?url=https%3A//t.me/Team_Netflix")],
+                    [InlineKeyboardButton(text="sʜᴀʀᴇ & sᴜᴘᴘᴏʀᴛ", url="https://t.me/share/url?url=https%3A//t.me/")],
                     [
-                    InlineKeyboardButton(text="sᴇʀɪᴇs ᴀɴᴅ ᴍᴏᴠɪᴇs", url="https://t.me/Netflixe_Original/14"),
-                    InlineKeyboardButton(text="ᴏᴜʀ ɢʀᴏᴜᴘs", url="https://t.me/Movie7xChat/4")
+                    InlineKeyboardButton(text="sᴇʀɪᴇs ᴀɴᴅ ᴍᴏᴠɪᴇs", url="https://t.me/"),
+                    InlineKeyboardButton(text="ᴏᴜʀ ɢʀᴏᴜᴘs", url="https://t.me/")
                     ],
                 ]
             ),
         )
     __help__ = """
-    ──「ᴀʙᴏᴜᴛ • ᴛᴇᴀᴍ ɴᴇᴛғʟɪx 」──                         
+    ──「ᴀʙᴏᴜᴛ • ᴛᴇᴀᴍ 」──                         
     
     ❂ /about or /network: Get information about our community! Using it in groups may create promotion so we don't support using it in groups."""
     
