@@ -36,7 +36,7 @@ async def auto_welcome(bot, message):
     group_name = message.chat.title
     group_username = message.chat.username
     name_button = "🔰 JOIN NOW 🔰"
-    link_button = "t.me/team_netflix"
+    link_button = "t.me"
     button_name = os.environ.get("WELCOME_BUTTON_NAME", name_button)
     button_link = os.environ.get("WELCOME_BUTTON_LINK", link_button)
     welcome_text = f"Hey {mention}\nWelcome To {group_name} your admission no {count}"
@@ -83,4 +83,4 @@ async def auto_welcome(bot, message):
 
 print("""Auto Welcome Bot Started
 
-Maintained By Team_netflix""")
+Maintained""")
